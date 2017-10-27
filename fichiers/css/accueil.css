@@ -15,7 +15,7 @@ body
 }
 #content
 {
-    height: 1000px;
+    height: auto;
     width: 550px;
     border: 2px solid white;
     border-radius: 20px;
@@ -75,4 +75,11 @@ body
 .menu:hover
 {
     background-color: #271406;
+}
+#ggmap
+{
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
 }
