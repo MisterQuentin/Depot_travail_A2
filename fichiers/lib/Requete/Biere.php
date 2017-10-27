@@ -19,7 +19,7 @@ class Biere extends Requete
             return $stmt->fetchAll();
         }
         catch (Exception $e){
-            echo "erreur dans recherche biere via ID  ----". $e->getMessage();
+            echo "erreur dans recherche biere via Nom  ----". $e->getMessage();
         }
     }
 
