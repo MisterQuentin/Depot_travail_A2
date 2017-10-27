@@ -17,10 +17,10 @@
     <input type="text" name="biere" value="<?php echo $biere; ?>">
     <input type="button" name="" value="valider">
     <?php
-      var_dump('test');
-      require_once("../lib/requete.php");
-      recherche_biere($biere);
-    //  var_dump($biere);
+//      var_dump('test');
+      require_once("../lib/Requete/Biere.php");
+
+      var_dump(Biere::rechercheBy_Nom($biere));
      ?>
   <body>
     <h2>Recherchez votre bière</h2>
