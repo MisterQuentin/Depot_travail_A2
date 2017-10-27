@@ -8,10 +8,10 @@
   <body>
     <h1>Le site des alcooliques</h1>
     <div id="navbar">
-        <div id="titre" class="menu">ACCUEIL</div>
-        <div id="map" class="menu">MAP</div>
-        <div id="requette" class="menu">REQUETTE</div>
-        <div id="contact" class="menu">CONTACT</div>
+        <a href="accueil.php"><div id="titre" class="menu">ACCUEIL</div></a>
+        <a href="map.php"><div id="map" class="menu">MAP</div></a>
+        <a href="recherche_biere.php"><div id="requette" class="menu">RECHERCHE</div></a>
+        <a href="contact.php"><div id="contact" class="menu">CONTACT</div></a>
         
     </div>
 
