@@ -13,32 +13,6 @@ body
 {
     background: url(../Ressources/bonne_biere_rousse_img_2048x1528.jpg) top;
 }
-#content
-{
-    height: 1000px;
-    width: 550px;
-    border: 2px solid white;
-    border-radius: 20px;
-    float: left;
-    margin-bottom: 50px;
-    margin-top: 35px;
-}
-#picture
-{
-    width: 500px;
-    height: 400px;
-    background: url(../Ressources/t%C3%A9l%C3%A9chargement.jpg) center no-repeat;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 25px;
-    background-size: cover;
-}
-.text
-{
-   width: 500px; 
-   margin-left: auto;
-   margin-right: auto;
-}
 #footer
 {
     width: 100%;
@@ -75,4 +49,35 @@ body
 .menu:hover
 {
     background-color: #271406;
+}
+#info
+{
+    height: 600px;
+    width: 550px;
+    border: 2px solid white;
+    border-radius: 20px;
+    float: left;
+    margin-bottom: 50px;
+    margin-top: 35px;
+}
+.text
+{
+   width: 500px; 
+   margin-left: auto;
+   margin-right: auto;
+}
+#carte
+{
+    float: right;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-top: 35px;
+}
+.logo
+{   
+    height: 100px;
+    width: 100px;
+    cursor:pointer;
+    border: none;
+    margin-right: 40px;
 }
