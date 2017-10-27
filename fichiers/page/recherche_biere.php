@@ -11,6 +11,7 @@
   </head>
   <body>
     <h2>Recherchez votre bière</h2>
+    <a href="accueil.php"><button type="button" name="button">retour accueil</button></a>
     <label> Choisissez une bière</label>
     <input type="text" name="biere" value="<?php echo $biere; ?>">
     <input type="button" name="" value="valider">
@@ -20,5 +21,7 @@
       recherche_biere($biere);
     //  var_dump($biere);
      ?>
+
+
   </body>
 </html>
