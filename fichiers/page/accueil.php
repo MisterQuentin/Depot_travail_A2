@@ -7,6 +7,14 @@
   </head>
   <body>
     <h1>Le site des alcooliques</h1>
+    <div id="navbar">
+        <a href="accueil.php"><div id="titre" class="menu">ACCUEIL</div></a>
+        <a href="map.php"><div id="map" class="menu">MAP</div></a>
+        <a href="recherche_biere.php"><div id="requette" class="menu">RECHERCHE</div></a>
+        <a href="contact.php"><div id="contact" class="menu">CONTACT</div></a>
+        
+    </div>
+
     <div id="content">
     <div id="picture"></div>
     <div class="text">
@@ -21,5 +29,6 @@ Eodem tempore Serenianus ex duce, cuius ignavia populatam in Phoenice Celsen ant
 Cum autem commodis intervallata temporibus convivia longa et noxia coeperint apparari vel distributio sollemnium sportularum, anxia deliberatione tractatur an exceptis his quibus vicissitudo debetur, peregrinum invitari conveniet, et si digesto plene consilio id placuerit fieri, is adhibetur qui pro domibus excubat aurigarum aut artem tesserariam profitetur aut secretiora quaedam se nosse confingit.</p>
     </div>
     </div>
+    <div id="footer">IMIE 2017 - ©ALL RIGHT RESERVED - Tout pompage de ce site sera punis!</div>
   </body>
 </html>

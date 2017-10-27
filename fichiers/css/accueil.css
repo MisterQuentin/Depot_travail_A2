@@ -7,6 +7,7 @@ h1
     height: 40px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 50px;
 }
 body
 {
@@ -19,6 +20,8 @@ body
     border: 2px solid white;
     border-radius: 20px;
     float: left;
+    margin-bottom: 50px;
+    margin-top: 35px;
 }
 #picture
 {
@@ -35,4 +38,41 @@ body
    width: 500px; 
    margin-left: auto;
    margin-right: auto;
+}
+#footer
+{
+    width: 100%;
+    height: 40px;
+    clear: both;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    background-color: black;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 20px;
+    padding-top: 15px;
+}
+.menu
+{
+    border: 2px solid black;
+    background-color: deepskyblue;
+    width: 250px;
+    height: 30px;
+    float: left;
+    text-align: center;
+    padding-top: 10px;
+    color: black;
+}
+#navbar
+{
+    margin-right: auto;
+    margin-left: auto;
+    width: 1018px;
+    height: 44px;
+    border-bottom: 50px;
+}
+.menu:hover
+{
+    background-color: #271406;
 }
