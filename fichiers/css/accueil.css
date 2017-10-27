@@ -1,0 +1,14 @@
+h1
+{
+    text-align: center;
+    border: 2px solid black;
+    width: 400px;
+    background-color: deepskyblue;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+body
+{
+    background: url(../Ressources/bonne_biere_rousse_img_2048x1528.jpg) top;
+}
