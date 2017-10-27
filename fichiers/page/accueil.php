@@ -21,5 +21,6 @@ Eodem tempore Serenianus ex duce, cuius ignavia populatam in Phoenice Celsen ant
 Cum autem commodis intervallata temporibus convivia longa et noxia coeperint apparari vel distributio sollemnium sportularum, anxia deliberatione tractatur an exceptis his quibus vicissitudo debetur, peregrinum invitari conveniet, et si digesto plene consilio id placuerit fieri, is adhibetur qui pro domibus excubat aurigarum aut artem tesserariam profitetur aut secretiora quaedam se nosse confingit.</p>
     </div>
     </div>
+    <div id="footer">IMIE 2017 - ©ALL RIGHT RESERVED - Tout pompage de ce site sera punis!</div>
   </body>
 </html>
