@@ -7,6 +7,14 @@
   </head>
   <body>
     <h1>Le site des alcooliques</h1>
+    <div id="navbar">
+        <div id="titre" class="menu">ACCUEIL</div>
+        <div id="map" class="menu">MAP</div>
+        <div id="requette" class="menu">REQUETTE</div>
+        <div id="contact" class="menu">CONTACT</div>
+        
+    </div>
+
     <div id="content">
     <div id="picture"></div>
     <div class="text">
