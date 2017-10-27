@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <h1>Recherche binouz</h1>
+    <h1>RECHERCHE</h1>
     <link rel="stylesheet" href="../css/accueil.css">
   </head>
   <body>

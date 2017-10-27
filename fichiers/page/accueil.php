@@ -6,7 +6,7 @@
     <title>LA BIBINE C'EST ICI</title>
   </head>
   <body>
-    <h1>Le site des alcooliques</h1>
+    <h1>ACCUEIL</h1>
     <div id="navbar">
         <a href="accueil.php"><div id="titre" class="menu">ACCUEIL</div></a>
         <a href="map.php"><div id="map" class="menu">MAP</div></a>
