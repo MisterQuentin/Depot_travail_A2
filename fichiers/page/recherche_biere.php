@@ -17,7 +17,7 @@
     <?php
       var_dump('test');
       require_once("../lib/requete.php");
-      recherche_biere($biere);
+      Requete::recherche_biere($biere);
     //  var_dump($biere);
      ?>
   </body>
