@@ -6,13 +6,23 @@
     <title>LA BIBINE C'EST ICI</title>
   </head>
   <body>
+<<<<<<< HEAD
     <h1>ACCUEIL</h1>
+=======
+    <h1>Le site des alcooliques</h1>
+>>>>>>> origin/Antoine
     <div id="navbar">
         <a href="accueil.php"><div id="titre" class="menu">ACCUEIL</div></a>
         <a href="map.php"><div id="map" class="menu">MAP</div></a>
         <a href="recherche_biere.php"><div id="requette" class="menu">RECHERCHE</div></a>
         <a href="contact.php"><div id="contact" class="menu">CONTACT</div></a>
+<<<<<<< HEAD
     </div>
+=======
+        
+    </div>
+
+>>>>>>> origin/Antoine
     <div id="content">
     <div id="picture"></div>
     <div class="text">
